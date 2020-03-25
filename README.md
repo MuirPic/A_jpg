@@ -1,1 +1,2 @@
-# RandomPic_A1
+# 这里是Muir的随机图服务
+## jpg文件的存放位置
